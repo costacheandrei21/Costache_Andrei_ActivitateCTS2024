@@ -1,3 +1,5 @@
+package Spital.Builder;
+
 public class Pacient {
     private String numePacient;
     private boolean patRabatabil;

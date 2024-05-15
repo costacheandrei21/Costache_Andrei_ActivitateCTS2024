@@ -1,3 +1,5 @@
+package Spital.Builder;
+
 public class PacientBuilder implements IBuilder{
     private Pacient pacient;
     public PacientBuilder(){

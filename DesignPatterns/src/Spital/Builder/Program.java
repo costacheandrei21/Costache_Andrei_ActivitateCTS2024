@@ -1,3 +1,5 @@
+package Spital.Builder;
+
 public class Program {
     public static void main(String[]args){
         PacientBuilder pacientBuilder = new PacientBuilder();

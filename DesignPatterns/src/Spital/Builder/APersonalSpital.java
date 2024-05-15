@@ -1,3 +1,5 @@
+package Spital.Builder;
+
 public abstract class APersonalSpital {
     private String numePersonal;
     private ETipPersonal tipPersonal;
