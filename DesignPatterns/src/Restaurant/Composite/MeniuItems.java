@@ -1,4 +1,4 @@
-package Composite;
+package Restaurant.Composite;
 
 public class MeniuItems extends ANod{
     String denumire;

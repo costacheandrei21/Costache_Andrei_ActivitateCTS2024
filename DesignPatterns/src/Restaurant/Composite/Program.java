@@ -1,4 +1,4 @@
-package Composite;
+package Restaurant.Composite;
 
 public class Program {
     public static void main(String[] args){

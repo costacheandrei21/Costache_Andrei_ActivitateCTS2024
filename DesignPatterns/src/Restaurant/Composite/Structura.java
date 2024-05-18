@@ -1,4 +1,4 @@
-package Composite;
+package Restaurant.Composite;
 
 import java.util.ArrayList;
 

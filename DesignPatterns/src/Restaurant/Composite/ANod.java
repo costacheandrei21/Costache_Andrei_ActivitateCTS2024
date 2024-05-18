@@ -1,4 +1,4 @@
-package Composite;
+package Restaurant.Composite;
 
 public abstract class ANod {
     public abstract String getDenumire();

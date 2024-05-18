@@ -1,4 +1,4 @@
-package Composite;
+package Restaurant.Composite;
 
 public class Meniu {
     Structura structura;
